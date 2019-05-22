@@ -1,12 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MadWoodsman</title>
-    <link>https://madwoodsman.com/</link>
-    <description>Recent content on MadWoodsman</description>
+    <title>Posts on MadWoodsman</title>
+    <link>https://madwoodsman.com/post/</link>
+    <description>Recent content in Posts on MadWoodsman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 21 May 2019 19:37:22 -0500</lastBuildDate>
-    <atom:link href="https://madwoodsman.com/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://madwoodsman.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,8 +20,6 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
-    
-    
     <item>
       <title>Post3</title>
       <link>https://madwoodsman.com/post/post3/</link>
@@ -28,8 +28,6 @@
       <guid>https://madwoodsman.com/post/post3/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
-    
-    
     
     <item>
       <title>Post2</title>
@@ -40,8 +38,6 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
-    
-    
     <item>
       <title>Post1</title>
       <link>https://madwoodsman.com/post/post1/</link>
@@ -50,18 +46,6 @@
       <guid>https://madwoodsman.com/post/post1/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
-    
-    
-    
-    <item>
-      <title>About</title>
-      <link>https://madwoodsman.com/about/</link>
-      <pubDate>Tue, 21 May 2019 19:36:44 -0500</pubDate>
-      
-      <guid>https://madwoodsman.com/about/</guid>
-      <description></description>
-    </item>
-    
     
   </channel>
 </rss>

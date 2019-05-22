@@ -71,10 +71,10 @@ enableRobotsTXT = true
     #no_minimize = true
 
     ## Set a site-wide notice for all visitors to all pages.
-    alert = """
-Interested in using Midnight? Check out the [getting started](https://bluestnight.com/guides/midnight/getting-started/)
-guide and the [user documentation](https://bluestnight.com/docs/midnight/users/) for more information.
-    """
+    # alert = """
+    # Interested in using Midnight? Check out the [getting started](https://bluestnight.com/guides/midnight/getting-started/)
+    # guide and the [user documentation](https://bluestnight.com/docs/midnight/users/) for more information.
+    # """
 
 ## Midnight can integrate custom shortcodes into the theme. For more
 ## about this, see https://bluestnight.com/docs/midnight/developers/
@@ -112,14 +112,14 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
 ## Change the color scheme of the site
 ## The commented out values are the defaults used
 ## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#custom-colors
-#[params.color]
-    #page_background = "#000000"
-    #main_background = "#050505"
-    #alt_background = "#252525"
-    #main_text = "#e2e2e2"
-    #alt_text = "#e2e2e2"
-    #accent = "#2c8cef"
-    #accent_text = "#e2e2e2"
+[params.color]
+    page_background = "#1c222e"
+    main_background = "#faf6f3"
+    alt_background = "#9e9a75"
+    main_text = "#554840"
+    alt_text = "#d9d7d0"
+    accent = "#41533b" # "#2c8cef"
+    accent_text = "#9e9a75" # "#e2e2e2"
 
 ## Midnight can integrate with various comment providers through the plugin
 ## system. Included is a plugin for Commento.
@@ -134,11 +134,11 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
 ## Set custom font styles
 ## Values can be one of the following: "serif", "sans-serif", "slab-serif"
 ## See also: https://bluestnight.com/docs/midnight/users/site/appearance/#font-customization
-#[params.fonts]
-    #header_style = "sans-serif"
-    #body_style = "sans-serif"
-    #print_header_style = "sans-serif"
-    #print_body_style = "serif"
+[params.fonts]
+    header_style = "slab-serif" # "sans-serif"
+    body_style = "slab-serif" # "sans-serif"
+    print_header_style = "slab-serif"
+    print_body_style = "serif"
 
 ## Integrate with Iubenda's generated privacy policies and cookie solutions
 ## (policies and consent banners). Items under [params.iubenda.pro] require
@@ -180,8 +180,8 @@ guide and the [user documentation](https://bluestnight.com/docs/midnight/users/)
 ## For author-specific social icons that appear in the authorbox,
 ## see https://bluestnight.com/docs/midnight/users/shortcodes/members/#social-links
 ## See also: https://bluestnight.com/docs/midnight/users/site/social-icons/
-[params.social]
-    gitlab = "BluestNight/Midnight"
+# [params.social]
+#    gitlab = "BluestNight/Midnight"
 
 ## Options used while generating server configuration files.
 ## See https://bluestnight.com/docs/midnight/users/server/ for more.
